@@ -1,0 +1,30 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(255, 230, 202);
+}
+
+
+h1 {
+    text-align: center;
+    padding: 20px
+    
+}
+
+.list {
+    margin: auto;
+    font-weight: bold;
+    list-style:decimal-leading-zero;
+    padding-left: 20px;
+    margin-left: 40%;
+    margin-right: auto;
+
+}
+
+
+.spag, .alf, .rav {
+    padding-bottom: 5%;
+}
+
+.spag {
+    padding: auto
+}
